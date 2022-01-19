@@ -1,0 +1,47 @@
+.heading{
+    width:80%;
+    font-size:55px;
+    font-family:'The Nautigal';
+}
+
+body{
+    background-color: rgb(245, 194, 255);
+    color:hsl(285, 100%, 10%);
+}
+
+#camera{
+    border:2px solid rgb(176, 239, 255);
+    width:350px;
+    height: 350px;
+}
+
+.name_of_objects{
+    color:rgb(0, 24, 53);
+    font-size:35px;
+}
+
+#result_object_name, #result_object_accuracy{
+    color:rgb(14, 0, 48);
+    font-size:35px;
+    font-weight: bold;
+    font-family: 'Neucha';
+}
+
+button{
+    font-weight: bold;
+    font-family: 'Neucha';
+}
+
+p{
+    font-family: 'Neucha';
+}
+
+b, label{
+    font-family: 'Neucha';
+    font-size: 35px;
+}
+
+#result{
+    width: 400px;
+    height: 400px;
+}
